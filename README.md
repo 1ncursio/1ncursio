@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ### Active Projects
 
 - [laravel-othello](https://github.com/1ncursio/laravel-othello) A web application that can play Reversi against AlphaZero.
-- [meta-composer-client](https://github.com/1ncursio/meta-composer-client) A platform for piano players to take piano lessons and participate in a competition in WebXR. Built with A-Frame.
+- [meta-composer-client](https://github.com/1ncursio/meta-composer-client) A platform for piano players to take piano lessons and participate in a competition in Web Browser.
