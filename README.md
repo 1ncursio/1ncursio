@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1ncursio)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ncursio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 😎 I'm a programmer who interested in various fields such as:
 
 - Web Applications
