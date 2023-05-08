@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/yechan-kim-710186230/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:1ncursio.dev@gmail.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1ncursio)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1ncursio&bg_color=0d1117&text_color=ffffff&ring_color=eb5757&hide_title=true&hide_border=true&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ncursio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ncursio&layout=compact&bg_color=0d1117&text_color=ffffff&hide_title=true&hide_border=true&langs_count=6&hide=php,java,blade,html,css,jupyter%20notebook,nsis)](https://github.com/anuraghazra/github-readme-stats)
 
 😎 I'm a programmer who interested in various fields such as:
 
